@@ -1,0 +1,21 @@
+{
+    "name": "composertest/project",
+    "description": "Test project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Duy Huynh",
+            "email": "duyhuynh@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "/project"
+        }
+    ],
+    "require": {
+        "composertest/project": "*"
+    }
+}
