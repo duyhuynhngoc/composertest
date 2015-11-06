@@ -12,7 +12,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "./package"
+            "url": "../package"
         }
     ],
     "require": {
