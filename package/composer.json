@@ -1,0 +1,16 @@
+{
+    "name": "composertest/package",
+    "description": "My test package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Duy Huynh",
+            "email": "duyhuynh@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "": ""
+        }
+    }
+}
