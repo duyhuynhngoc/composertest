@@ -12,7 +12,8 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "/project"
+            "url": "./project",
+            "packagist": false
         }
     ],
     "require": {
